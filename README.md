@@ -3,6 +3,8 @@
 
 ![image](https://github.com/user-attachments/assets/309ec44b-97fd-48e0-9aa3-1e2c5ad1200f)
 
+demonstration - https://ik.imagekit.io/rf3f8xwjo/AI%20Hacathon%20.mp4?updatedAt=174946434457
+
 
 # 🧠 Face Recognition + RAG-based Chat System
 
