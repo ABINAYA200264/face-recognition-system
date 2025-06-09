@@ -58,4 +58,6 @@ face-recognition-system/
 git clone https://github.com/your-username/face-recognition-rag-chat.git
 cd face-recognition-rag-chat
 
-https://katomaran.com 
+https://katomaran.com
+
+
